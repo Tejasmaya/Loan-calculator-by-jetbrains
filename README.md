@@ -2,7 +2,7 @@
  complex program with CLI
 
 This program needs Command line arguments
-
+```
 import math
 import sys
 
@@ -68,3 +68,4 @@ elif type_ == "annuity":
         print("Incorrect parameters.")
 else:
     print("Incorrect parameters.")
+```
